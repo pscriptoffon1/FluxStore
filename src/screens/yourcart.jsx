@@ -76,7 +76,7 @@ function Yourcart() {
 
 
             </div><br /><br /><br /><br /><br /><br /><br />
-            <a href="/yourcart">
+            <a href="/checkout1">
                 <button className="b-yourcart">
                     <svg width="315" height="48" viewBox="0 0 315 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect width="315" height="48" rx="24" fill="#343434" />
