@@ -1,4 +1,8 @@
+
+
 import Navbar from "../components/navbar";
+import Menuend from "../components/menuend"
+
 function homepage() {
     return (
         <div className="mobile-wrapper">
@@ -117,26 +121,47 @@ function homepage() {
                     </div>
 
 
-                ===================
-                ======================
-                =============================
+
                     <div className="card-slim row">
+
                         <div className="col-6 text-hano">
-                            <small><small>Summer Collection 2021</small></small><br />
-                            <big>HANG OUT <br /> & PARTY</big>
+                            <small><small>Sale up to 40%</small></small><br />
+                            <big>For SLIM <br /> & BEAUTY</big>
                         </div>
                         <div className="col-6">
                             <svg width="132" height="132" viewBox="0 0 132 132" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/253f5374175bb9210b2f2de3f4abe98c37fd3cbb.png" alt="" />
+                            <img className="photo-hano" src="images/3d8289e005f646c4c914bb766d81b1457a1815b2.png" alt="" />
                         </div>
-                    </div>================
-                    ==============
-                    =======
+                    </div>
+
+                    <div className="card-most row">
+
+                        <div className="col-6 text-hano">
+                            <small><small>Summer Collection 2021</small></small><br />
+                            <big>Most <br /> & Fabulous <br />design</big>
+                        </div>
+                        <div className="col-6">
+                            <svg width="132" height="132" viewBox="0 0 132 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
+                            </svg>
+
+                            <img className="photo-hano" src="images/071373fad51ad0143a98105907f84f8d80c53d58.png" alt="" />
+                        </div>
+
+                    </div>
+
+
+
+
+
 
                 </div>
+
+                    <Menuend />
+
             </div>
         </div>
     );
