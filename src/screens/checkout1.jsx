@@ -136,15 +136,17 @@ function Checkout1() {
                             <button type="button">
                                 Validate
                             </button>
+                        </div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br />
+                        <div className="bbbb1">
+                            <div className="billing-address">
+                                <p>Billing Address</p>
+                                <input type="checkbox"></input><b>Copy address data from shipping</b>
+                            </div>
+                            <br />
+                            <a className="i-b" href="/check2"> <button className="continue-btn">
+                                Continue to payment
+                            </button></a>
                         </div>
-                        <div className="billing-address">
-                            <p>Billing Address</p>
-                            <input type="checkbox"></input><b>Copy address data from shipping</b>
-                        </div><br /><br /><br />
-                    <br /><br />
-                       <a className="i-b" href="/check2"> <button className="continue-btn">
-                            Continue to payment
-                        </button></a>
                     </div>
                 </div>
 
