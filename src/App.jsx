@@ -38,6 +38,7 @@ import Wishit2 from './screens/wishit2'
 import Address from './screens/address'
 import Profilesetting from './screens/profilesetting'
 import Setting from './screens/setting'
+import Support from './screens/support'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
@@ -81,6 +82,7 @@ function App() {
           <Route path="/address" element={<Address />} />
           <Route path="/profilesetting" element={<Profilesetting />} />
           <Route path="/setting" element={<Setting />} />
+          <Route path="/support" element={<Support />} />
         </Routes>
       </BrowserRouter>
     </>
