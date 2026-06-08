@@ -28,7 +28,7 @@ function Wishit() {
 
                             <div className="product-card">
                                 <div className="product-image">
-                                    <img src="images/5ff7fc25c9e3fc5d6a2e06d04f48aed5873b9be1.png" alt="" />
+                                    <img src="https://i.postimg.cc/C5mZm352/5ff7fc25c9e3fc5d6a2e06d04f48aed5873b9be1.png" alt="" />
                                     <button className="favorite">❤</button>
                                 </div>
 
@@ -44,7 +44,7 @@ function Wishit() {
 
                             <div className="product-card">
                                 <div className="product-image">
-                                    <img src="images/fc91d640491a54d6427825d70d17317b32339301.png" alt="" />
+                                    <img src="https://i.postimg.cc/SN2cNKP0/fc91d640491a54d6427825d70d17317b32339301.png" alt="" />
                                     <button className="favorite">❤</button>
                                 </div>
 
@@ -61,7 +61,7 @@ function Wishit() {
 
                             <div className="product-card">
                                 <div className="product-image">
-                                    <img src="images/ab2f4ed424ae6384ab7d20a54f772bf15d7db671.png" alt="" />
+                                    <img src="https://i.postimg.cc/9MBH9Vgt/ab2f4ed424ae6384ab7d20a54f772bf15d7db671.png" alt="" />
                                     <button className="favorite">❤</button>
                                 </div>
 
@@ -77,7 +77,7 @@ function Wishit() {
 
                             <div className="product-card">
                                 <div className="product-image">
-                                    <img src="images/afe1124daae45a0f616c3229768c00d4df765aff.png" alt="" />
+                                    <img src="https://i.postimg.cc/hGj2snjK/afe1124daae45a0f616c3229768c00d4df765aff.png" alt="" />
                                     <button className="favorite">❤</button>
                                 </div>
 

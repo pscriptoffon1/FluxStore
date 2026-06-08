@@ -140,9 +140,9 @@ function Newcard() {
                          
                             
 
-                            <button className="order-btn">
+                           <a href="/check2"> <button className="order-btn">
                                 Place my order
-                            </button>
+                            </button></a>
                         </div>
                     </div>
                 </div>

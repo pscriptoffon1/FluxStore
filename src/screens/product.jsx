@@ -14,7 +14,7 @@ function Product() {
 
 
                     <div className="productt-1">
-                        <img className="pr-photo" src="../images/550c305749d6c4a8efe5849bb6952d297db4e2c1.png" alt="" />
+                        <img className="pr-photo" src="https://i.postimg.cc/25R5FkT3/550c305749d6c4a8efe5849bb6952d297db4e2c1.png" alt="" />
                         <svg className="heart-p-1" width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <g filter="url(#filter0_d_8782_1849)">
                                 <rect x="3" y="2" width="32" height="32" rx="16" fill="white" />

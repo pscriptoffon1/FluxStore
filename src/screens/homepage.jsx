@@ -43,21 +43,21 @@ function homepage() {
                     </div>
                     <div className="card-feature-all">
                         <div className="card-f1">
-                            <img className="photo-card-1" src="images/ac4448f9289ba74dc8e260cf2469fe907263ed9b.jpg" alt="" />
+                            <img className="photo-card-1" src="https://i.postimg.cc/0jvh538f/ac4448f9289ba74dc8e260cf2469fe907263ed9b.jpg" alt="" />
                             <div className="text-long">
                                 Long Sleeve Dress <br />
                                 <b>$ 45.00</b>
                             </div>
                         </div>
                         <div className="card-f1">
-                            <img className="photo-card-1" src="images/265cd7ba4de44d517944d6e28fbe7a516c2c8937.png" alt="" />
+                            <img className="photo-card-1" src="https://i.postimg.cc/TwM4QSWd/265cd7ba4de44d517944d6e28fbe7a516c2c8937.png" alt="" />
                             <div className="text-long">
                                 Long Sleeve Dress <br />
                                 <b>$ 45.00</b>
                             </div>
                         </div>
                         <div className="card-f1">
-                            <img className="photo-card-1" src="images/761f46596218a649ae167df03599465380531f96.png" alt="" />
+                            <img className="photo-card-1" src="https://i.postimg.cc/xTxpBqbx/761f46596218a649ae167df03599465380531f96.png" alt="" />
                             <div className="text-long">
                                 Long Sleeve Dress <br />
                                 <b>$ 45.00</b>
@@ -74,7 +74,7 @@ function homepage() {
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/253f5374175bb9210b2f2de3f4abe98c37fd3cbb.png" alt="" />
+                            <img className="photo-hano" src="https://i.postimg.cc/QNSfWVSH/253f5374175bb9210b2f2de3f4abe98c37fd3cbb.png" alt="" />
                         </div>
                     </div>
                     <div className="text-products2 row">
@@ -88,21 +88,21 @@ function homepage() {
                     </div>
                     <div className="card-recommended-all">
                         <div className="card-recom1 row">
-                            <div className="col-3"><img className="photo-recom" src="images/ce9ccb3eabc00976156cd7a6ef7715b1e60e96f3.png" alt="" /></div>
+                            <div className="col-3"><img className="photo-recom" src="https://i.postimg.cc/bY6RwWY4/ce9ccb3eabc00976156cd7a6ef7715b1e60e96f3.png" alt="" /></div>
                             <div className="col-9 text-recom">
                                 <small><small>White fashion hoodie</small></small><br />
                                 <small><b>$ 29.00</b></small>
                             </div>
                         </div>
                         <div className="card-recom1 row">
-                            <div className="col-3"><img className="photo-recom" src="images/fc91d640491a54d6427825d70d17317b32339301.png" alt="" /></div>
+                            <div className="col-3"><img className="photo-recom" src="https://i.postimg.cc/SN2cNKP0/fc91d640491a54d6427825d70d17317b32339301.png" alt="" /></div>
                             <div className="col-9 text-recom">
                                 <small><small>White fashion hoodie</small></small><br />
                                 <small><b>$ 29.00</b></small>
                             </div>
                         </div>
                         <div className="card-recom1 row">
-                            <div className="col-3"><img className="photo-recom" src="images/ce9ccb3eabc00976156cd7a6ef7715b1e60e96f3.png" alt="" /></div>
+                            <div className="col-3"><img className="photo-recom" src="https://i.postimg.cc/SN2cNKP0/fc91d640491a54d6427825d70d17317b32339301.png" alt="" /></div>
                             <div className="col-9 text-recom">
                                 <small><small>White fashion hoodie</small></small><br />
                                 <small><b>$ 29.00</b></small>
@@ -133,7 +133,7 @@ function homepage() {
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/3d8289e005f646c4c914bb766d81b1457a1815b2.png" alt="" />
+                            <img className="photo-hano" src="https://i.postimg.cc/j51CGHK8/3d8289e005f646c4c914bb766d81b1457a1815b2.png" alt="" />
                         </div>
                     </div>
 
@@ -148,7 +148,7 @@ function homepage() {
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/071373fad51ad0143a98105907f84f8d80c53d58.png" alt="" />
+                            <img className="photo-hano" src="https://i.postimg.cc/QNRJ7550/071373fad51ad0143a98105907f84f8d80c53d58.png" alt="" />
                         </div>
 
                     </div>

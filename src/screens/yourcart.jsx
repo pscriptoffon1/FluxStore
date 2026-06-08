@@ -14,7 +14,7 @@ function Yourcart() {
 
                     <div className="row card-cart" >
                         <div className="col-4">
-                            <img className="photo-ycart" src="images/550c305749d6c4a8efe5849bb6952d297db4e2c1.png" alt="" />
+                            <img className="photo-ycart" src="https://i.postimg.cc/25R5FkT3/550c305749d6c4a8efe5849bb6952d297db4e2c1.png" alt="" />
                         </div>
                         <div className="col-6">
                             <b>Sportwear Set</b><br />

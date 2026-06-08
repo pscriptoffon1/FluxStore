@@ -20,7 +20,7 @@ function Profile() {
 
                         <img
                             className="avatar"
-                            src="images/f792d3326d08a9e5b5ea5bab640e7074d47d8480.jpg"
+                            src="https://i.postimg.cc/jC013F1j/f792d3326d08a9e5b5ea5bab640e7074d47d8480.jpg"
                             alt="Sunie Pham"
                         />
 

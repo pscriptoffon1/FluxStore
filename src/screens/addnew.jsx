@@ -72,7 +72,7 @@ function Addnew() {
                                 />
                             </div>
                         </div> <br /><br /><br /><br /><br /><br />
-                       <a className="add-card-button" href=""> <button className="add-card-button">
+                       <a className="add-card-button" href="/newcard"> <button className="add-card-button">
                             Add card
                         </button></a>
                     </div>

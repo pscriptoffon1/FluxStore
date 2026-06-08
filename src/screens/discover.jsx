@@ -24,7 +24,7 @@ function Discover() {
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/c793677696d160379456b9e0b7274fcb6b4facc6.png" alt="" />
+                            <img className="photo-hano" src="https://i.postimg.cc/xjbK9C7y/c793677696d160379456b9e0b7274fcb6b4facc6.png" alt="" />
                         </div>
                     </div>
 
@@ -39,7 +39,7 @@ function Discover() {
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/b03a51283ea25298d27460a3a2580d0e87ab3c5d.png" alt="" />
+                            <img className="photo-hano" src="https://i.postimg.cc/jqNJG1nK/b03a51283ea25298d27460a3a2580d0e87ab3c5d.png" alt="" />
                         </div>
 
                     </div>
@@ -54,7 +54,7 @@ function Discover() {
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/3d3c56ecc5dd806b206d8595e4f1e074342375c1.png" alt="" />
+                            <img className="photo-hano" src="https://i.postimg.cc/x8Rj9LSY/94e3f60d0bcca95f03fb944f30384d4c322d886e.png" alt="" />
                         </div>
 
                     </div>
@@ -70,7 +70,7 @@ function Discover() {
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/94e3f60d0bcca95f03fb944f30384d4c322d886e.png" alt="" />
+                            <img className="photo-hano" src="https://i.postimg.cc/QNRJ7550/071373fad51ad0143a98105907f84f8d80c53d58.png" alt="" />
                         </div>
 
                     </div>
@@ -88,7 +88,7 @@ function Discover() {
                                 <circle opacity="0.5" cx="66" cy="66" r="66" fill="#E2E2E2" />
                             </svg>
 
-                            <img className="photo-hano" src="images/071373fad51ad0143a98105907f84f8d80c53d58.png" alt="" />
+                            <img className="photo-hano" src="https://i.postimg.cc/N013hBtG/24642656f175b762469766070dae1ee73196af89.png" alt="" />
                         </div>
 
                     </div>
