@@ -72,10 +72,9 @@ function Support() {
 
                     {/* Bottom */}
                     <div className="chat-footer">
+                        <input placeholder=" Type your messages here" className="input-box" type="text" />
 
-                        <div className="input-box">
-                            Type your messages here
-                        </div>
+
 
                         <button className="send-btn">
                             <svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
